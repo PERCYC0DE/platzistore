@@ -34,6 +34,6 @@ module.exports = {
     static: path.join(__dirname, 'dist'),
     historyApiFallback: true,
     compress: true,
-    port: 3005,
+    port: 3000,
   },
 };
